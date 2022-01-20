@@ -9,7 +9,7 @@ contentDir: temp/content
 publishDir: docs
 
 params:
-  editURL: "https://github.com/KI-Vorlesung/Lecture/edit/master/markdown/"
+  editURL: "https://github.com/cyildiz/Lecture/edit/master/markdown/"
   author: "cagix"
   themeVariant: "green"
   titleSeparator: " "
